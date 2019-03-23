@@ -1,0 +1,19 @@
+{
+  "name": "xtazxz-tslint-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "publish": "npm login && npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xtazxz/xtazxz-tslint-config.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xtazxz/xtazxz-tslint-config/issues"
+  },
+  "homepage": "https://github.com/xtazxz/xtazxz-tslint-config#readme"
+}
